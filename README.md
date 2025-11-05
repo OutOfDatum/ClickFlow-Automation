@@ -33,3 +33,44 @@ Designed for analysts, testers, and anyone who wants to eliminate manual clickin
 Install dependencies:
 ```bash
 pip install pyautogui pynput
+```
+### Running
+python "ClickFlow Studio.py"
+
+## How to Use
+1. Add Steps:
+    Use the GUI to define each automation step (click, type, hotkey, etc.). Capture mouse positions directly.
+
+2. Configure Settings:
+    Set number of cycles, delays, move speed, and enable/disable failsafe.
+
+3. Save/Load Profiles:
+    Save your automation as a profile (JSON). Load or create new profiles as needed.
+
+4. Run Automation:
+    Click “Start Automation”. Monitor progress and logs in real time.
+5. Emergency Stop:
+    Press F9 or move the mouse to a screen corner to halt automation instantly.
+
+## Supported Actions
+-Left Click / Right Click / Double Click
+-Click & Hold / Release
+-Type Text (fast or with special characters)
+-Press Key (e.g., Enter, Tab, Esc)
+-Key Down / Key Up (for holding/releasing keys)
+-Hotkey Combination (e.g., Ctrl+C, Alt+Tab)
+-Wait/Pause (custom duration)
+-Move Only (move mouse, no click)
+
+## Example Use Cases
+-Automating data entry in legacy or web applications
+-Repetitive software testing
+-GUI workflow demonstrations
+-Any scenario where you’re sick of clicking and typing the same thing
+
+## Screenshots
+  will add screen shots here
+
+## Author
+OutOfDatum
+Manufacturing Execution Systems | Analyst | Continuous Improvement 
