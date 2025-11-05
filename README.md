@@ -1,7 +1,5 @@
 # ClickFlow-Automation
-Python tool for automating repetitive GUI tasks with a user-friendly interface and robust error handling.
-
-# ClickFlow Studio
+ClickFlow Studio is the main application in the ClickFlow-Automation project, providing a flexible GUI for automating repetitive desktop tasks.
 
 **Professional Desktop Automation Tool**  
 Automate repetitive GUI tasks with a flexible, user-friendly interface.  
@@ -35,9 +33,11 @@ Install dependencies:
 pip install pyautogui pynput
 ```
 ### Running
+
 python "ClickFlow Studio.py"
 
 ## How to Use
+
 1. Add Steps:
     Use the GUI to define each automation step (click, type, hotkey, etc.). Capture mouse positions directly.
 
@@ -53,6 +53,7 @@ python "ClickFlow Studio.py"
     Press F9 or move the mouse to a screen corner to halt automation instantly.
 
 ## Supported Actions
+
 - Left Click / Right Click / Double Click
 - Click & Hold / Release
 - Type Text (fast or with special characters)
@@ -63,14 +64,17 @@ python "ClickFlow Studio.py"
 - Move Only (move mouse, no click)
 
 ## Example Use Cases
+
 - Automating data entry in legacy or web applications
 - Repetitive software testing
 - GUI workflow demonstrations
 - Any scenario where you’re sick of clicking and typing the same thing
 
 ## Screenshots
+
   will add screen shots here
 
 ## Author
-OutOfDatum
-Manufacturing Execution Systems | Analyst | Continuous Improvement 
+
+OutOfDatum  
+Manufacturing Execution Systems | Analyst | Continuous Improvement
