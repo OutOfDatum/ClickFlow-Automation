@@ -71,8 +71,14 @@ python "ClickFlow Studio.py"
 - Any scenario where you’re sick of clicking and typing the same thing
 
 ## Screenshots
+  Main Screen</p>
+  <img width="1920" height="1032" alt="ClickFlowStudio_Main" src="https://github.com/user-attachments/assets/3f8809dc-70e8-4c46-8c9a-78a4126dc963" />
 
-  will add screen shots here
+  Easily map action co-ordinates</p>
+  <img width="552" height="312" alt="MappingInternodal" src="https://github.com/user-attachments/assets/e9721fe3-8be0-453e-8ea5-b2a234fdce1c" />
+
+  Configure actions</p>
+  <img width="502" height="532" alt="StepSetup" src="https://github.com/user-attachments/assets/bde2ef37-6b71-45c3-93a9-8b92919846d8" />
 
 ## Author
 
