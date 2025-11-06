@@ -1,4 +1,6 @@
 # ClickFlow-Automation
+![icense: MIT
+
 ClickFlow Studio is the main application in the ClickFlow-Automation project, providing a flexible GUI for automating repetitive desktop tasks.
 
 **Professional Desktop Automation Tool**  
